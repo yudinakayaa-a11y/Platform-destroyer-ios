@@ -36,8 +36,10 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 ---
 
-criadores do script: neji, cupiditys, flowings, teko, nyxk, bayone, yungcoffe e mentalista.
+criadores do script: neji, cupiditys, flowings, 
+teko, nyxk, bayone, yungcoffe e mentalista.
 cridor do site: Yudi
-server do discord da pd: 
+server do discord da pd::https://discord.gg/platformdestroyer
+Este site foi criado por alguém que nunca fez um site não esperem mil maravilhas.
 **Criado por:** yudinakayaa-a11y
 **Data:** 2026-05-12
