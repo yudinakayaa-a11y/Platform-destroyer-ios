@@ -40,6 +40,6 @@ criadores do script: neji, cupiditys, flowings,
 teko, nyxk, bayone, yungcoffe e mentalista.
 cridor do site: Yudi
 server do discord da pd::https://discord.gg/platformdestroyer
-Este site foi criado por alguém que nunca fez um site não esperem mil maravilhas.
+Este site foi criado por alguém que nunca fez um site não esperem mil maravilhas.alguns scripts estão em manutenção então alguns não estarão funcionando.
 **Criado por:** yudinakayaa-a11y
 **Data:** 2026-05-12
