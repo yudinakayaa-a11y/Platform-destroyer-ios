@@ -1,6 +1,6 @@
 # Platform Destroyer iOS 🚀
 
-Uma página web de seleção de links para iOS que permite aos usuários escolherem qual plataforma/serviço acessar de forma rápida e organizada.
+scripts para sala do futuro e outras plataformas 100% gratuito e seguro 
 
 ## 📋 Links Disponíveis
 
@@ -32,9 +32,7 @@ Uma página web de seleção de links para iOS que permite aos usuários escolhe
 2. Clique no link que deseja acessar
 3. Você será redirecionado para a plataforma escolhida
 
-## 🔧 Personalização
 
-Para adicionar scripts ou lógica personalizada antes do redirecionamento, edite a função `redirectTo()` no arquivo `index.html`.
 
 ---
 
