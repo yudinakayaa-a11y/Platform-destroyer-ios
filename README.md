@@ -57,8 +57,24 @@ Prepara off aguardando
 
 criadores do script: neji, cupiditys, flowings, 
 teko, nyxk, bayone, yungcoffe e mentalista.
+
 cridor do site: Yudi
-server do discord da pd::https://discord.gg/platformdestroyer
+
+server do discord da pd::https://discord.gg/platformdestroyer 
+
 Este site foi criado por alguém que nunca fez um site não esperem mil maravilhas.alguns scripts estão em manutenção então alguns não estarão funcionando.
+
 **Criado por:** yudinakayaa-a11y
+
+
+
+
+
+oq é book marklet? é uma expansão onde você favorita a página e faz os bagulhos para uma explicação melhor me chame no privado do discord meu nome é Yudi
+
+esses scripts roubam o ra? Não nossos scripts não roubam RA
+
+qual é o tempo Mínimo nas tarefas? 15 minutos e máximo 20
+
+é seguro? Sim os scripts nossos são 100% seguros e grátis 
 **Data:** 2026-05-12
