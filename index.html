@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Meta tags para iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Platform Destroyer">
+  <link rel="apple-touch-icon" href="icone-do-app.png">
+  <title>Platform Destroyer iOS - Seleção de Links</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 500px;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+      overflow: hidden;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 28px;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    .header p {
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .links-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      padding: 20px;
+    }
+
+    .link-item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: #f8f9fa;
+      border-radius: 12px;
+      text-decoration: none;
+      color: #333;
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+      font-weight: 500;
+      font-size: 13px;
+      text-align: center;
+      min-height: 80px;
+      word-break: break-word;
+      cursor: pointer;
+    }
+
+    .link-item:hover {
+      background: #667eea;
+      color: white;
+      border-color: #667eea;
+      transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+    }
+
+    .link-item:active {
+      transform: translateY(0);
+    }
+
+    .footer {
+      padding: 20px;
+      text-align: center;
+      color: #999;
+      font-size: 12px;
+      border-top: 1px solid #eee;
+    }
+
+    @media (max-width: 400px) {
+      .header h1 {
+        font-size: 24px;
+      }
+
+      .links-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        padding: 15px;
+      }
+
+      .link-item {
+        padding: 16px;
+        min-height: 60px;
+        font-size: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🚀 Platform Destroyer</h1>
+      <p>Escolha sua plataforma favorita</p>
+    </div>
+    <div class="links-grid">
+      <a href="#" class="link-item" onclick="redirectTo('https://apostilas.nejizzuki.xyz', event)">📚 Apostilas</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://elefante.shardweb.app/', event)">🐘 Elefante</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://crvision.com.br/', event)">👁️ CRVision</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://alura.shardweb.app/', event)">🎓 Alura</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://exp.sev3ntzz.fun/', event)">⚙️ Exp</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://prepara.sev3ntzz.fun/', event)">✍️ Prepara</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://khan.cupiditys.lol/', event)">🎯 Khan</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://matific.cupiditys.lol/', event)">🧮 Matific</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://taskitos.cupiditys.lol/', event)">✅ Taskitos</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://kazereda.shardweb.app/', event)">🎮 Kazereda</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://profissional.shardweb.app/', event)">💼 Profissional</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://open.shardweb.app/', event)">🌐 Open</a>
+      <a href="#" class="link-item" onclick="redirectTo('https://tarefas.nejizzuki.xyz/', event)">📋 Tarefas</a>
+    </div>
+    <div class="footer">
+      <p>✨ Criado para iOS | Acesso rápido e fácil</p>
+    </div>
+  </div>
+
+  <script>
+    function redirectTo(url, event) {
+      event.preventDefault();
+      
+      // Adicione aqui scripts personalizados se necessário
+      console.log('Redirecionando para: ' + url);
+      
+      // Redireciona para a URL
+      window.location.href = url;
+    }
+  </script>
+</body>
+</html>
