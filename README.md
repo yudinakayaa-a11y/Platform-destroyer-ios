@@ -35,9 +35,7 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 
 ---
-Script de tarefas on somente no app CRSP disponível somente para Android e matific on lá
-
-
+Script de tarefas on somente no app CRSP disponível somente para Android matific on lá, Educação profissional, tarefas, redação, leia, Alura, educação profissional, expansão e speak on tudo lá tbm
 
 
 
