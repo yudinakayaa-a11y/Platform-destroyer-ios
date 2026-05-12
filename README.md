@@ -6,16 +6,16 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 - 📚 **Apostilas** - https://apostilas.nejizzuki.xyz
 - 🐘 **Elefante** - https://elefante.shardweb.app/
-- 👁️ **CRVision** - https://crvision.com.br/
+- 👁️ **speak** - https://crvision.com.br/
 - 🎓 **Alura** - https://alura.shardweb.app/
 - ⚙️ **Exp** - https://exp.sev3ntzz.fun/
-- ✍️ **Prepara** - https://prepara.sev3ntzz.fun/
+- ✍️ **Preparasp** - https://prepara.sev3ntzz.fun/
 - 🎯 **Khan** - https://khan.cupiditys.lol/
 - 🧮 **Matific** - https://matific.cupiditys.lol/
 - ✅ **Taskitos** - https://taskitos.cupiditys.lol/
 - 🎮 **Kazereda** - https://kazereda.shardweb.app/
 - 💼 **Profissional** - https://profissional.shardweb.app/
-- 🌐 **Open** - https://open.shardweb.app/
+- 🌐 **openenglish** - https://open.shardweb.app/
 - 📋 **Tarefas** - https://tarefas.nejizzuki.xyz/
 
 ## 🎨 Características
