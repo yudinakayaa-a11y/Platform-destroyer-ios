@@ -35,6 +35,12 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 
 ---
+Script de tarefas on somente no app CRSP disponível somente para Android e matific on lá
+
+
+
+
+
 Status: 
 taskitos off manutenção 
 Speak on normal
