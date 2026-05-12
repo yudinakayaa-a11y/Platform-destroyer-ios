@@ -35,6 +35,21 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 
 ---
+Status: 
+taskitos off manutenção 
+Speak on normal
+Matific on normal
+Khan off aguardando 
+Elefante letrado on instável 
+Redação sp off aguardando 
+Expansão noturno on normal 
+Alura on normal
+Educação profissional off aguardando 
+Open english off aguardando 
+Prepara off aguardando
+
+
+
 
 criadores do script: neji, cupiditys, flowings, 
 teko, nyxk, bayone, yungcoffe e mentalista.
