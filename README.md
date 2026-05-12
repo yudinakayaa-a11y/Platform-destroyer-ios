@@ -6,7 +6,7 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 - 📚 **Apostilas** - https://apostilas.nejizzuki.xyz
 - 🐘 **Elefante** - https://elefante.shardweb.app/
-- 👁️ **speak** - https://crvision.com.br/
+- 👁️ **spaikspeak** - https://crvision.com.br/
 - 🎓 **Alura** - https://alura.shardweb.app/
 - ⚙️ **Exp** - https://exp.sev3ntzz.fun/
 - ✍️ **Preparasp** - https://prepara.sev3ntzz.fun/
