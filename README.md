@@ -35,7 +35,8 @@ scripts para sala do futuro e outras plataformas 100% gratuito e seguro
 
 
 ---
-Script de tarefas on somente no app CRSP disponível somente para Android Educação profissional, tarefas, redação, leia, Alura, educação profissional, expansão e speak on tudo lá tbm
+Scriptde tarefas on somente neste app https://play.google.com/store/apps/detailsid=com.lmcomu.crsp ou no app web dele https://crvision.com.br/
+disponível somente para Android Educação profissional, tarefas, redação, leia, Alura, educação profissional, expansão e speak on tudo lá tbm
 
 
 
