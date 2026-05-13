@@ -78,4 +78,6 @@ esses scripts roubam o ra? Não nossos scripts não roubam RA
 qual é o tempo Mínimo nas tarefas? 15 minutos e máximo 20
 
 é seguro? Sim os scripts nossos são 100% seguros e grátis 
+app crsp:https://play.google.com/store/apps/detailsid=com.lmcomu.crsp
 **Data:** 2026-05-12
+
